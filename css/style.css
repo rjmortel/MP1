@@ -12,10 +12,16 @@
     font-weight: bold;
     color: rgb(255, 255, 255);
     opacity: 90%;
+    
   }
 nav a:hover {
     background-color:  #BF994D;
-  }
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
 
   
   .navbar {
@@ -41,6 +47,7 @@ nav a:hover {
   }
   .nav2-hover:hover {
     color:  #BF994D;
+    
   }
   /* about sec */
   .about-sec {
